@@ -1,3 +1,2 @@
 # connorcookcontact.github.io
-Personal Portfolio Site
-TEST 123
+This is my personal portfolio
